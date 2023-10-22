@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on ****
+ 🔭 I’m currently working on networking related java programs
  
  🌱 I’m currently learning **MongoDB, MERN, React Native Expo**
 
