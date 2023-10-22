@@ -4,19 +4,19 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Xnrrrrrr+!;" />
 </h1>
 
-<h3 align="center"> Wherever I lay my hat is my home </h3>
+<h3 align="center"> Where I lay my hat is my home </h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on networking related java programs
+ 🔭 Im working on network related *JAVA* programs
  
  🌱 I’m currently learning **MongoDB, MERN, React Native Expo**
 
  💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything**
 
- ⚡ Fun fact **Malware is great, malware is fun for everyone**
+ ⚡ **"Malware is great, malware is fun for everyone"**
  
  </div>
  
