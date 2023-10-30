@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **MongoDB, MERN, React Native Expo**
 
- 💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything**
+ 💬 Ask me about **Node.js, POSTMAN API, Firebase, MongoDB... or anything**
 
  ⚡ **"Malware is great, malware is fun for everyone!"**
  
