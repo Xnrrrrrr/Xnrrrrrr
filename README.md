@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 Im working on network related *JAVA* programs
+ 🔭 Im working on network related *JAVA* programs!
  
  🌱 I’m currently learning **MongoDB, MERN, React Native Expo**
 
