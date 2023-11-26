@@ -12,7 +12,7 @@
  
  🔭 Im working on network related *JAVA* programs!
  
- 🌱 I’m currently learning **MongoDB, MERN, React Native Expo**
+ 🌱 Currently learning **MongoDB, MERN, React Native Expo**
 
  💬 Ask me about **Node.js, React.js, POSTMAN API, Firebase, MongoDB.. or anything**
 
