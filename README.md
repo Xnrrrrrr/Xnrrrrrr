@@ -38,11 +38,16 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,vscode,github,git,blender,discord,idea,linux,powershell" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,lua,mongodb,java,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,lua,mongodb,java,mysql,flask,javascript" /><br>
 </div>
 
 <br/>
 <hr/>
+
+<div align="center">
+  <h3>My Contributions</h3>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Xnrrrrrr/Xnrrrrrr/output/github-contribution-grid-snake.svg" />
 
   
   <br/><br/><br/>
