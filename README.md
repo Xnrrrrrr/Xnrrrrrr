@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=." />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=1000&lines=😈😈😈😈😈😈😈😈;+😈😈😈😈😈😈😈😈;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=1000&lines=🥶🥶🥶🥶🥶🥶;+🥶🥶🥶🥶🥶🥶;" />
 </h1>
 
 <h3 color="blue" align="center"> Where I lay my hat is my home </h3>
@@ -10,13 +10,13 @@
 
 <div align="center">
  
- 😈 Working on network related *JAVA* programs!!!😈
+ 🥶 Working on network related *JAVA* programs!!!🥶
  
- 😈 Currently learning **MongoDB, MERN, React Native Expo**😈
+ 🥶 Currently learning **MongoDB, MERN, React Native Expo**🥶
 
- 😈 Ask me about **Node.js, React.js, POSTMAN API, Firebase, MongoDB.. or anything**😈
+ 🥶 Ask me about **Node.js, React.js, POSTMAN API, Firebase, MongoDB.. or anything**🥶
 
- 😈 **"Malware is great, malware is fun for everyone!!"**😈
+ 🥶 **"Malware is great, malware is fun for everyone!!"**🥶
  
  </div>
  
