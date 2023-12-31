@@ -10,13 +10,13 @@
 
 <div align="center">
  
- 🥶 Working on network related *JAVA* programs!!!🥶
+ 🔷 Working on network related *JAVA* programs!!!🔷
  
- 🥶 Currently learning **MongoDB, MERN, React Native Expo**🥶
+ 🔷 Currently learning **MongoDB, MERN, React Native Expo**🔷
 
- 🥶 Ask me about **Node.js, React.js, POSTMAN API, Firebase, MongoDB.. or anything**🥶
+ 🔷 Ask me about **Node.js, React.js, POSTMAN API, Firebase, MongoDB.. or anything**🔷
 
- 🥶 **"Malware is great, malware is fun for everyone!!"**🥶
+ 🔷 **"Malware is great, malware is fun for everyone!!"**🔷
  
  </div>
  
@@ -29,7 +29,7 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">🥶 Languages-Frameworks-Tools 🥶 </h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,vscode,github,git,blender,discord,idea,linux,powershell" />
