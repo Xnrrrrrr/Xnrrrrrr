@@ -32,7 +32,7 @@
 <h2 align="center">🥶 Languages-Frameworks-Tools 🥶 </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=node.js,vscode,github,git,blender,discord,idea,mysql,linux,powershell,react,express,vite,redux, regex,mongodb, maven " />
+    <img src="https://skillicons.dev/icons?i=node.js,vscode,github,git,blender,postman,discord,idea,mysql,linux,powershell,react,express,vite,redux, regex,mongodb, maven " />
     <img src="https://skillicons.dev/icons?i=html,python,lua,java,javascript,css,golang" /><br>
 </div>
 
@@ -49,6 +49,7 @@
 </div>
 
 <hr/>
+
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
