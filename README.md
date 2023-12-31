@@ -60,7 +60,8 @@
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=xnrrrrrr&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xnrrrrrr&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xnrrrrrr&size_weight=0.5&count_weight=0.5&layout=donut-vertical&theme=react&border_radius=10" alt="top langs" />
+      
 </div>
       
 
