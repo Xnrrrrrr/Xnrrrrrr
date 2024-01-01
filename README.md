@@ -43,7 +43,7 @@
 <hr/>
 
 <div align="center">
-  <h3>My Contributions</h3>
+  <h3>🔷 Contributions 🔷</h3>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Xnrrrrrr/Xnrrrrrr/output/github-contribution-grid-snake.svg" />
 
@@ -54,7 +54,7 @@
 <hr/>
 
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">🔷 Stats 🔷</h2>
 <br>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=xnrrrrrr&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
