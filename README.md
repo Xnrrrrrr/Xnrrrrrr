@@ -12,13 +12,13 @@
 
 <div align="center">
  
- 🔷 Working on network related *JAVA* programs!!!🔷
+ 🔷 Working on network related programs🔷
  
- 🔷 Currently learning **MongoDB, MERN, React Native Expo**🔷
+ 🔷 Language to do list  | **ASSEMBLY, C, RUBY, RUST**🔷
 
- 🔷 Ask me about **Node.js, React.js, POSTMAN API, Firebase, MongoDB.. or anything**🔷
+ 🔷 Ask me anything about  | **POSTMAN API, MERN or anything**🔷
 
- 🔷 **"Malware is great, malware is fun for everyone!!"**🔷
+ 🔷 **Malware is great, malware is fun for everyone**🔷
  
  </div>
  
