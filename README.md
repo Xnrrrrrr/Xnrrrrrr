@@ -14,7 +14,7 @@
  
  🔷 Working on network related programs🔷
  
- 🔷 Language to do list  | **ASSEMBLY, C, RUBY, RUST**🔷
+ 🔷 Language to do list  | **ASSEMBLY,RUBY, RUST**🔷
 
  🔷 Ask me anything about  | **POSTMAN API, MERN or anything**🔷
 
