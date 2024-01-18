@@ -12,7 +12,7 @@
 
 <div align="center">
  
- 🔷 Working on networking related programs🔷
+ 🔷 Working on network related programs🔷
  
  🔷 Language to do list  | **ASSEMBLY,RUBY,RUST**🔷
 
