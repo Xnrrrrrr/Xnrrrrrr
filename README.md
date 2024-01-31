@@ -12,11 +12,11 @@
 
 <div align="center">
  
- 🔷 Working on network related programs!!!🔷
+ 🔷 Working on reverse engineering🔷
  
  🔷 Language to do list  | **ASSEMBLY,RUBY,RUST**🔷
 
- 🔷 Ask me anything about  | **POSTMAN API, MERN or anything**🔷
+ 🔷 Ask me anything about  | **POSTMAN API, MERN or x64dbg**🔷
 
  🔷 **Malware is great, malware is fun for everyone**🔷
  
