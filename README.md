@@ -14,7 +14,7 @@
  
  🔷 Working on reverse engineering🔷
  
- 🔷 Language to do list  | **ASSEMBLY,RUBY,RUST**🔷
+ 🔷 Language to do list  | **x86 ASSEMBLY,RUBY,RUST**🔷
 
  🔷 Ask me anything about  | **POSTMAN API, MERN or x64dbg**🔷
 
