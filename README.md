@@ -12,7 +12,7 @@
 
 <div align="center">
  
- 🔷 Working on reverse engineering🔷
+ 🔷 Working on reverse engineering!🔷
  
  🔷 Language to do list  | **x86 ASSEMBLY,RUBY,RUST**🔷
 
